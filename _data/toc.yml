@@ -285,6 +285,9 @@
         - users
       - Miscellaneous:
         - info
+      - Rooms:
+        - get
+        - upload
       - Settings:
         - get
         - get-by-id
